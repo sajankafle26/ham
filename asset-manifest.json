@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ham/static/css/main.56eaf3d6.css",
+    "main.js": "/ham/static/js/main.cf1b5d77.js",
+    "static/js/787.5ba04f10.chunk.js": "/ham/static/js/787.5ba04f10.chunk.js",
+    "static/media/logo.svg": "/ham/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ham/index.html",
+    "main.56eaf3d6.css.map": "/ham/static/css/main.56eaf3d6.css.map",
+    "main.cf1b5d77.js.map": "/ham/static/js/main.cf1b5d77.js.map",
+    "787.5ba04f10.chunk.js.map": "/ham/static/js/787.5ba04f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56eaf3d6.css",
+    "static/js/main.cf1b5d77.js"
+  ]
+}
